@@ -1,1 +1,6 @@
 This is just another test file.
+This is also going along fine.
+
+## readme.md < (Markdown Documentation)
+
+git add . << . meaning all the files in the directory.
